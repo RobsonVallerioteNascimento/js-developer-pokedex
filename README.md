@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-Inclusão da página de detalhes dos Pokemons.
+Inclusão da página de detalhes dos Pokemons...
